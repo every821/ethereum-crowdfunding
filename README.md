@@ -1,0 +1,1 @@
+Its a simple blockchain based cloud funding system
