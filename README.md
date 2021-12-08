@@ -30,15 +30,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Marriage Registration System Using Blockchain Smart Contract</h3>
+  <h3 align="center">Ethereum crowdfunding using solidity python and Brownie </h3>
 
   <p align="center">
-     bitcoin has emerged as a disruptive technology with the power to revolutionize business and its processes. Advantages of the blockchain include decentralized control, immutability, elimination of central authority, and solution of concurrency problems in traditional databases. Leveraging on the advantages of blockchain technology defined above, this project uses blockchain technology for the registry system of marriage. Two users can be married to each other using our deployed smart contract, and they can store an amount of money on the system. if they get a divorce then they can withdraw the funds.
+     This decentralized application can store ethereum. Only the owner can make withdrawals, but anyone could donate any amount of more than 4$. The Smart contract is been written using Solidity. using chainlink, It can check the current price of Ethereum. It's important because we said earlier users can donate more than 4$ valued ethereum. so we take the current price from chainlink and after the comparison, the transaction could be made.
     <br />
-    <a href="https://rinkeby.etherscan.io/address/0xb0e449b4287862f36a5d076eb54e23e12bda708c"><strong>Explore the Smart Contract »</strong></a>
+    <a href="https://rinkeby.etherscan.io/address/0x1bb4C00519cBf0b102B0c094213cbb4b330f5408"><strong>Explore the Smart Contract »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract">View Demo</a>
@@ -82,14 +82,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This is a smart contract-based marriage system. a wallet address will be the unique identifier for different users. While the user is doing the registration he has to put some ether as a security asset. Users can withdraw that amount later.
+This decentralized application can store ethereum. Only the owner can make withdrawals, but anyone could donate any amount of more than 4$. The Smart contract is been written using Solidity. using chainlink, It can check the current price of Ethereum. It's important because we said earlier users can donate more than 4$ valued ethereum. so we take the current price from chainlink and after the comparison, the transaction could be made.
 
-Key point:
-* Wallet address will the unique identifier for each user.
-* At the time of registration user have to put some ether on wallet as a security asset.
-* At the time of registration, the user has to choose a password and If users want to withdraw the fund they have to use that password.
 
 
 ### Built With
@@ -142,18 +137,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-This project is can be used as an open-source marriage registration system based on smart contracts. Because it's a Blockchain-based system so it's a reliable system and it's a very strong system in terms of security.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 
 
 <!-- CONTRIBUTING -->
