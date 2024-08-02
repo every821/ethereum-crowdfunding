@@ -166,17 +166,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@Pritom Sarker](https://www.pritom.work/) - Me.Pritom@gmail.com
-
-Project Link: [Marriage Registration System Using Blockchain Smart Contract](https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
